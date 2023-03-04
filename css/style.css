@@ -34,6 +34,9 @@
 
   html {
     font-family: "Fira Code Regular", serif !important;
+    background-color: rgba(var(--bs-black-rgb));
+    margin: 0;
+    padding: 0;
 }
   
   /* General Styles */
@@ -47,3 +50,4 @@
     width: 100%;
     height: 40px;
 }
+
